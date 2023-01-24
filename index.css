@@ -1,7 +1,7 @@
 
     body{
 
-       background-color: hsl(212, 45%, 89%)   
+       background-color: hsl(192, 45%, 70%)   
     }
 
     .content {
@@ -10,31 +10,25 @@
         margin: auto;
         background: white;
         padding: 15px;
-        padding-right: 5px;
+        padding-right: 15px;
         padding-left: 10px;
         padding-top: 10px;
-        border-radius: 15px;
+        border-radius: 25px;
         margin-top: 150px;
     }
-   
-    img {
-  border-radius: 10px;
+       img {
+  /* border-radius: 100px; */
 }
 
 span{
-    font-size: large;
+    font-size: small;
     
     color: rgb(32, 32, 32);
     font-size: medium;
     font-family:Arial, Helvetica, sans-serif    
 }
-
 .text{
     text-align: center;
     font-size: small;
     color: rgb(124, 126, 128);
-}
-
-.reference{
-    text-align: right;
 }
